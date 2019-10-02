@@ -1,0 +1,2 @@
+# WinAddCloverBootSectorWithoutUEFI
+Windows下使用BOOTICE为没有UEFI的BIOS启动CLOVER的方法
